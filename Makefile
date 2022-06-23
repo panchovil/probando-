@@ -10,6 +10,13 @@ FC:=gfortran
 FCSYNTAX:=-fsyntax-only
 FCMODDIR:=-J
 MODDIR:=.mod
+
+
+
+
+# FC:=ifort
+# FC:=ifort
+
 # FC:=ifort
 # FCSYNTAX:=-syntax-only
 # FCMODDIR:=-module
